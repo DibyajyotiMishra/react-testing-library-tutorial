@@ -1,0 +1,20 @@
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.gray {
+  background-color: gray;
+  pointer-events: none;
+}
+
+.medium-violet-red {
+  background-color: mediumvioletred;
+}
+
+.midnight-blue {
+  background-color: midnightblue;
+}
